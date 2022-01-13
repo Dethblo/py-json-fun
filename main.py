@@ -7,6 +7,16 @@ import json
 
 # reads a json file and prints the contents
 def read_json():
+    # JSON string
+    a = '{"name": "Bob", "languages": "English"}'
+
+    # deserializes into dict
+    # and returns dict.
+    y = json.loads(a)
+
+    print("JSON string = ", y)
+    print()
+
     # Opening JSON file
     f = open('data.json')
 
