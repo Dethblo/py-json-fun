@@ -1,0 +1,19 @@
+{
+  "emp_details": [
+    {
+      "emp_name": "John Doe",
+      "email": "jdoe@someplace.com",
+      "profile": "intern"
+    },
+    {
+      "emp_name": "Fred Flintstone",
+      "email": "fflintstone@someplace.com",
+      "profile": "worker"
+    },
+    {
+      "emp_name": "Albert Einstein",
+      "email": "aeinstein@someplace.com",
+      "profile": "boss"
+    }
+  ]
+}
