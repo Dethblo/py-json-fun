@@ -4,6 +4,7 @@
 
 import json
 
+
 # reads a json file and prints the contents
 def read_json():
     # Opening JSON file
@@ -25,4 +26,3 @@ def read_json():
 # main entry point
 if __name__ == '__main__':
     read_json()
-
